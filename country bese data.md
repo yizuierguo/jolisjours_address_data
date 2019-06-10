@@ -25,7 +25,6 @@
      <td>阿尔及利亚</td> 
      <td>DZ</td> 
      <td>213</td> 
-     <td>1.136</td> 
     </tr> 
     <tr> 
      <td>American Samoa</td> 
@@ -44,7 +43,6 @@
      <td>安哥拉</td> 
      <td>AO</td> 
      <td>244</td> 
-     <td>0.301</td> 
     </tr> 
     <tr> 
      <td>Anguilla</td> 
@@ -93,7 +91,6 @@
      <td>阿塞拜疆</td> 
      <td>AZ</td> 
      <td>994</td> 
-     <td>1.003</td> 
     </tr> 
     <tr> 
      <td>Bahamas</td> 
@@ -112,7 +109,6 @@
      <td>孟加拉国</td> 
      <td>BD</td> 
      <td>880</td> 
-     <td>0.580</td> 
     </tr> 
     <tr> 
      <td>Barbados</td> 
@@ -281,14 +277,12 @@
      <td>克罗地亚</td> 
      <td>HR</td> 
      <td>385</td> 
-     <td>0.549</td> 
     </tr> 
     <tr> 
      <td>Cuba</td> 
      <td>古巴</td> 
      <td>CU</td> 
      <td>53</td> 
-     <td>0.504</td> 
     </tr> 
     <tr> 
      <td>Curacao</td> 
@@ -349,7 +343,6 @@
      <td>埃及</td> 
      <td>EG</td> 
      <td>20</td> 
-     <td>0.338</td> 
     </tr> 
     <tr> 
      <td>El Salvador</td> 
