@@ -4,7 +4,8 @@
 {"countryInfo":{"countryCode":"KW","countryId":1859,"countryName":"Kuwait","currency":"KWD"},"currency":"KWD","message":"Success","messageCode":"0","messageType":0,"result":0,"tips":"For faster delivery, put your address in English."}
 
 #### State/Prov./Region
-`
+
+```
 
 ["A":"Ahmadi",
 "F":"Farwaniyah",
@@ -13,11 +14,12 @@
 "K":"Kuwait City",
 "M":"Mubarak AI Kabeer"]
 
-`
+```
 
 #### Ahmadi
 
-`{
+```
+{
  	"currency": "KWD",
  	"message": "Success",
  	"messageCode": "0",
@@ -221,11 +223,14 @@
  	}],
  	"result": 0,
  	"seq": 2651
- }`
+ }
+ 
+ ```
 
 #### Farwaniyah
 
-`{
+```
+{
  	"currency": "KWD",
  	"message": "Success",
  	"messageCode": "0",
@@ -373,11 +378,13 @@
  	}],
  	"result": 0,
  	"seq": 2652
- }`
+ }
+ ```
 
 #### Hawally
 
-`{
+```
+{
  	"currency": "KWD",
  	"message": "Success",
  	"messageCode": "0",
@@ -490,11 +497,14 @@
  	}],
  	"result": 0,
  	"seq": 2656
- }`
+ }
+
+ ```
  
 #### Jahra
 
-`{
+``` 
+{
  	"currency": "KWD",
  	"message": "Success",
  	"messageCode": "0",
@@ -621,11 +631,13 @@
  	}],
  	"result": 0,
  	"seq": 2653
- }`
+ }
+ ```
  
 #### Kuwait City
  
- `{
+ ``` 
+ {
   	"currency": "KWD",
   	"message": "Success",
   	"messageCode": "0",
@@ -864,11 +876,13 @@
   	}],
   	"result": 0,
   	"seq": 2654
-  }`
+  }
+  ```
   
 #### Mubarak AI Kabeer
   
-`{
+```
+{
  	"currency": "KWD",
  	"message": "Success",
  	"messageCode": "0",
@@ -960,4 +974,5 @@
  	}],
  	"result": 0,
  	"seq": 2657
- }`
+ }
+ ```
