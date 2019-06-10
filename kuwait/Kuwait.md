@@ -1,18 +1,37 @@
 # address info
 
 ### country
-{"countryInfo":{"countryCode":"KW","countryId":1859,"countryName":"Kuwait","currency":"KWD"},"currency":"KWD","message":"Success","messageCode":"0","messageType":0,"result":0,"tips":"For faster delivery, put your address in English."}
+```
+
+{
+	"countryInfo": {
+		"countryCode": "KW",
+		"countryId": 965,
+		"countryName": "Kuwait",
+		"currency": "KWD"
+	},
+	"currency": "KWD",
+	"message": "Success",
+	"messageCode": "0",
+	"messageType": 0,
+	"result": 0,
+	"tips": "For faster delivery, put your address in English."
+}
+
+```
 
 #### State/Prov./Region
 
 ```
 
-["A":"Ahmadi",
-"F":"Farwaniyah",
-"H":"Hawally",
-"J":"Jahra",
-"K":"Kuwait City",
-"M":"Mubarak AI Kabeer"]
+{
+	"A":"Ahmadi",
+	"F":"Farwaniyah",
+	"H":"Hawally",
+	"J":"Jahra",
+	"K":"Kuwait City",
+	"M":"Mubarak AI Kabeer"
+}
 
 ```
 
